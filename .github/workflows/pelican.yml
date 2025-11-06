@@ -40,7 +40,10 @@ jobs:
 
       - name: Build Pelican site
         run: |
-          pelican content -s publishconf.py
+          pelican content -s publishconf.py -v --debug
+        env:
+          PYTHONIOENCODING: utf-8
+          LANG: en_US.UTF-8
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
