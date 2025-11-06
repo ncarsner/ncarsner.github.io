@@ -1,10 +1,14 @@
-title: First Post on My Sweet New Blog
+title: First Post on GitHub Pages
 date: 2025-11-05
-author: Your Name Here
+author: Nicholas Carsner
+category: Personal
+tags: introduction, blogging, getting-started
+slug: first-post-github-pages
 
 # I am On My Way To Internet Fame and Fortune!
 
-This is my first post on my new blog. While not super informative it
-should convey my sense of excitement and eagerness to engage with you,
-the reader!
+My name is Nicholas, and I am thrilled to welcome you to my new blog 🚀
 
+This inaugural post might be short on technical details, but it's overflowing with excitement and anticipation. I can't wait to share my journey, ideas, and discoveries with you. Whether you've arrived here by chance or intention, I'm genuinely eager to connect and engage with you
+
+Stay tuned for more content coming your way soon. The adventure is just beginning! ✨
