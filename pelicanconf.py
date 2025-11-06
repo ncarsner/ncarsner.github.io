@@ -37,5 +37,15 @@ DEFAULT_CATEGORY = 'Misc'
 # Use directory names as categories (if you organize posts in subdirectories)
 USE_FOLDER_AS_CATEGORY = True
 
+# Manually specify menu items in desired order
+DISPLAY_CATEGORIES_ON_MENU = False  # Disable automatic category menu
+MENUITEMS = (
+    ('Observer', '/category/observer.html'),
+    ('User', '/category/user.html'),
+    ('Student', '/category/student.html'),
+    ('Teacher', '/category/teacher.html'),
+    ('Philosopher', '/category/philosopher.html'),
+)
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
