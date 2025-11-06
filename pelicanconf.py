@@ -47,5 +47,11 @@ MENUITEMS = (
     ('Philosopher', '/category/philosopher.html'),
 )
 
+# Generate empty category pages even if no posts exist
+DIRECT_TEMPLATES = ['index', 'categories', 'authors', 'archives', 'tags']
+
+# Custom template variables for empty category messages
+EMPTY_CATEGORY_MESSAGE = "No posts yet in this category. Check back soon!"
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
