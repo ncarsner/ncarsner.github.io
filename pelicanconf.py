@@ -31,5 +31,11 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
+# Default category for posts without a category specified
+DEFAULT_CATEGORY = 'Misc'
+
+# Use directory names as categories (if you organize posts in subdirectories)
+USE_FOLDER_AS_CATEGORY = True
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
