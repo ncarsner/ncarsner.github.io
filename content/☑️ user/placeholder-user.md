@@ -1,7 +1,8 @@
-title: Coming Soon
-date: 2025
+title: Coming Soon - User
+date: 2025-01-01
 author: Nicholas Carsner
 category: User
+slug: coming-soon-user
 status: published
 
 # Content Coming Soon
