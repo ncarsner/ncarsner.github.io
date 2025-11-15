@@ -53,5 +53,11 @@ DIRECT_TEMPLATES = ['index', 'categories', 'authors', 'archives', 'tags']
 # Custom template variables for empty category messages
 EMPTY_CATEGORY_MESSAGE = "No posts yet in this category. Check back soon!"
 
+# Static files (favicon, robots.txt, etc.)
+STATIC_PATHS = ['images', 'extra']
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
