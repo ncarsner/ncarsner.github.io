@@ -3,9 +3,9 @@
 
 import os
 import sys
-from pelicanconf import *
 
 sys.path.append(os.curdir)
+from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = "https://ncarsner.github.io"
