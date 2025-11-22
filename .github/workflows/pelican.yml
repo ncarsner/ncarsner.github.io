@@ -40,7 +40,10 @@ jobs:
 
       - name: Build Pelican site
         run: |
+          ls -la
+          python -c "import sys; print(sys.path)"
           pelican content -s publishconf.py
+        working-directory: ${{ github.workspace }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
