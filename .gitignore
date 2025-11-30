@@ -208,5 +208,5 @@ __marimo__/
 
 # Pelican
 output/
-.HOWTO.md
+.*.md
 /drafts
