@@ -60,7 +60,8 @@ EXTRA_PATH_METADATA = {
 }
 
 # Math rendering support
-PLUGINS = ['render_math']
+PLUGINS = ['pelican.plugins.render_math']
+MATH_JAX = {'auto_insert': True}
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
