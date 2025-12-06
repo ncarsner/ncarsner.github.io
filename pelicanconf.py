@@ -57,8 +57,10 @@ EMPTY_CATEGORY_MESSAGE = "No posts yet in this category. Check back soon!"
 STATIC_PATHS = ['images', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/mathjax-init.js': {'path': 'mathjax-init.js'},
 }
+
+# Template overrides for MathJax support
+THEME_TEMPLATES_OVERRIDES = ['templates']
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
