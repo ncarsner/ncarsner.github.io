@@ -59,8 +59,8 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
-# MathJax support for LaTeX equations
-THEME_TEMPLATES_OVERRIDES = ['content/extra']
+# Custom theme with MathJax support
+THEME = 'themes/custom'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
