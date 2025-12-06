@@ -59,9 +59,8 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
-# Math rendering support
-PLUGINS = ['pelican.plugins.render_math']
-MATH_JAX = {'auto_insert': True}
+# MathJax support for LaTeX equations
+THEME_TEMPLATES_OVERRIDES = ['content/extra']
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
