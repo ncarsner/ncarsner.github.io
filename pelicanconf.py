@@ -59,5 +59,8 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
+# Math rendering support
+PLUGINS = ['pelican.plugins.render_math']
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
