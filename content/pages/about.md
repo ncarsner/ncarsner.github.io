@@ -2,7 +2,7 @@ title: About
 date: 2025-11-05
 
 <!-- <img src="{static}/images/selfie_chicago.jpg" alt="in Chicago" width="50%"> -->
-<img src="{static}/images/headshot_crop.jpg" alt="headshot" width="50%">
+<img src="{static}/images/headshot_crop.png" alt="headshot" width="50%">
 
 Hi, I'm Nicholas. I work in data analysis, data engineering, and process automation, with a rich history of healthcare claims and big data. I also engage in data science and attempt to share here what I have learned. Data-driven decision making is my appreciation language.
 
@@ -16,7 +16,7 @@ Beyond technical work, I enjoy mentoring, collaboration, sharing knowledge about
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](#) or check out my projects on [GitHub](#).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nicholascarsner/) or check out my projects on [GitHub](https://github.com/ncarsner).
 
 
 Specialty languages:
