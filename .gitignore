@@ -210,3 +210,5 @@ __marimo__/
 output/
 .*.md
 /drafts
+
+.DS_Store
